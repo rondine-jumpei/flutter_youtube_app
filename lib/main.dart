@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           centerTitle: false,
           leading: Icon(Icons.videocam),
-          title: const Text("YoutubeApp"),
+          title: const Text("YoutubeっぽいApp"),
           actions: [
             SizedBox(
                 width: 44,
